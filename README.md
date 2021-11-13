@@ -1,1 +1,1 @@
-# ChatBot
+En este proyecto se explora la creacion de chatbots usando inteligencia artificial basica, utilizando tambien GUI's con tkinter, las librerias utilizadas son Pickle, tensorflow, numpy, json, nltk y tkinter.
