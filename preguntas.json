@@ -1,0 +1,102 @@
+{"intents": [
+    {"tag": "saludos",
+    "preguntas": ["hola","ey","hey","buenos dias","buenas tardes","buenas noches", "buenas"],
+    "respuestas": ["¡Hola! Soy Numpy, tu asistente virtual. ¿En qué puedo ayudarte hoy?"] 
+    },
+
+    {"tag": "cortesia",
+    "preguntas": ["como estas?","como te ha ido?","como has estado?"],
+    "respuestas": ["Muy bien, con muchos ánimos de ayudar.","Muy feliz, gracias por preguntar."]
+    },
+
+    {"tag": "dudas",
+    "preguntas": ["necesito información","tengo algunas dudas","si tenia algunas dudas sobre superate","si tenia algunas preguntas sobre superate",
+    "quisiera un poco de informacion","resolver unas dudas","dudas","info","informacion"],
+    "respuestas": ["Claro, con gusto te ayudaré a resolver cualquier duda que tengas.","Seguro, dime cómo ayudarte"]
+    },
+
+    {"tag": "que es",
+    "preguntas": ["que es superate?","en que consiste superate?","de que trata el programa","que es esta beca","de que trata superate","que es"],
+    "respuestas": ["La beca ¡Supérate! es un programa de alta calidad en inglés, informática y valores para jóvenes de escasos recursos económicos y con alto rendimiento escolar durante tres años. Los jóvenes reciben clases en el programa de forma complementaria y paralela a la educación del sistema público."] 
+    },
+
+    {"tag": "proposito",
+    "preguntas": ["Cual es el objetivo de superate?","que proposito tiene esta beca","para que fue creado superate?","que finalidad tiene este programa?",
+    "cual es el proposito en si de superate","objetivo","proposito","meta"],
+    "respuestas": ["La finalidad de la beca ¡Supérate! es transformar la vida de los jóvenes vía educación, preparándolos para un futuro laboral donde ellos tengas más oportunidades que los jóvenes promedios."] 
+    },
+
+    {"tag": "duracion",
+    "preguntas": ["Cuantos años son de beca?","cuanto dura la beca", "cuanto dura el programa","de cuantos años es la duracion de la beca","cuanto tiempo estare en el programa","que tiempo de duracion tiene la beca","duracion","años de estudio","años","tiempo","cuanto tiempo"],
+    "respuestas": ["La beca ¡Supérate! tiene una duracion de 3 años dando enseñanza en las áreas de inglés, informática y valores."] 
+    },
+
+    {"tag": "horarios",
+    "preguntas": ["Cual es el horario de clase?", "a que horas son las clases?", "a que hora se imparten las clases","a que horas comienzan las clases?","horarios",
+    "clases","distribucion","horario de clases","turnos"],
+    "respuestas": ["Tenemos horarios matutino y vespertino. Turno matutino - 7:30am a 11:50am. Turno vespertino - 1:30pm A 5.00pm."] 
+    },
+
+    {"tag": "materias",
+    "preguntas": ["que puedo aprender en superate?", "cuales son las materias que imparten?", "que materias enseñan?","que es lo que se aprendere en superate",
+    "que es lo que se aprende","materias","asignaturas"],
+    "respuestas": ["Aprenderás inglés, informática y valores. Estarás muy capacitado para enfrentarte a una vida laboral donde podrás sobresalir en primer lugar por los valores aprendidos, el idioma inglés y por habilidades informáticas adquiridas."] 
+    },
+
+    {"tag": "funcion",
+    "preguntas": ["Para que me va a servir estudiar en superate?","de que me sirve la beca","porque deberia estudiar en superate", 
+    "que beneficios me trae estudiar en superate","funcion","sirve para","puede servir","porque estudiar ahi","porque puedo estudiar en la beca","beneficios",
+    "que puedo obtener"],
+    "respuestas": ["Ayuda para desarrollar tus habilidades cognitivas, aumentar tus conocimientos en inglés, informática y valores, poder comprender el mundo desde una perspectiva mucho más amplia, permitiendo no solo cultivar el pensamiento, sino también los valores como excelencia, superación, liderazgo, solidaridad e integridad."] 
+    },
+
+    {"tag": "ubicacion",
+    "preguntas": ["donde estan ubicados","cual es su dirrecion", "donde se encuentra superate", "en que lugar se imparten las clases", "cual es su locacion",
+    "ubicación","donde estan","a donde puedo ir","localidad","destino"],
+    "respuestas": ["Nos puedes encontrar en 9A calle oriente #408 Barrio Concepción San Miguel, El Salvador (una cuadra antes de INDES)"] 
+    },
+
+    {"tag": "requisitos",
+    "preguntas": ["Desde que edades se puede ingresar a Supérate?","Necesito estar graduado de básica?","mayores de edad pueden aplicar?",
+    "que requisitos nesecito para poder entrar","que se nesecita para entar a superate","cuales son las condiciones para entrar a superate",
+    "que nesecito para entrar a superate","requisitos"],
+    "respuestas": ["Los requisitos para entrar a ¡Supérate! son: Escasos recursos económicos, Cursar 8° grado del sistema público, Alto rendimiento académico (mínimo de 8), Recomendado por el director de su Centro Escolar, Demostrar el deseo y potencial de superación."]
+    },
+   
+    {"tag": "proceso",
+    "preguntas": ["como puedo entrar a supérate", "que pasos se siguen para entrar a superate", "como se entra a supérate","que pruebas se hacen para aplicar",
+    "Cuántos pasos son para conseguir la beca","proceso","pasos a seguir","pasos"],
+    "respuestas": ["Para entrar a ¡Supérate! nesecitas cumplir los requisitos y tener la documentación requerida. Luego de la respectiva revisión de documentos se pasa a otras fases que se te irán informando conforme pase el proceso."] 
+    },
+    
+    {"tag": "inicia",
+    "preguntas": ["cuando inician las clases", "cuando inician","inician cuando", "inician","cuando","en que punto inician clases","las clases las recibo en qué momento","como llevaré a cabo las clases"],
+    "respuestas": ["Las clases en el Centro ¡Supérate! van de forma paralela a las clases del sistema público, es decir, si estudias por la mañana en el centro educativo, estudiarás por la tarde en ¡Supérate!, también el otro caso, si estudias por la tarde en el centro escolar, recibirás las clases del programa por la mañana."] 
+    },
+
+    {"tag": "admision",
+    "preguntas": ["cuando comienzan los procesos de admision","cuando debo iniciar ah aplicar a superate","admision","ingreso"],
+    "respuestas": ["Los procesos de admisión comienzan a finales de agosto e inicios de septiembre. Puedes obtener más información en la página oficial de Facebook, la pueds encontrar como Programa Empresarial ¡Supérate!"]
+    },
+      
+    {"tag": "contactos",
+    "preguntas": ["en que redes sociales los puedo encontrar","de que otro  medio me puedo comunicar con  ustedes", "contactos","como lo puedo contactar","mas informacion","telefonos","redes sociales","más informacion","conocer más","mas info","contactar"],
+    "respuestas": ["Nos puedes encontrar en Facebook como 'Centro ¡Supérate! Grupo Q' o comunicarte por WhatsApp al +503 7272-9962. También puedes visitar la página web oficial de ¡Supérate! entrando al siguiente link https://www.superate.org.sv/"]
+    },
+
+    {"tag": "graduarse",
+    "preguntas": ["cuales son los requisitos para graduarse?","como se gradua uno en superate?","graduarse","graduacion","requisitos de graduacion","graduarse de superate"],
+    "respuestas": ["Los requisitos nesecarios para graduarse en ¡Supérate! son: Obtener una nota promedio de 8 o superior en el instituto y en ¡Supérate!. Luego, poder pasar las 4 certificaciones requeridas, las cuales son: MOS Excel certification, MTA Certification, TOEIC speaking and writing test, TOEIC listening and reading test"] 
+    },
+ 
+    {"tag": "examenes",
+    "preguntas": ["que examenes realizan","examenes"],
+    "respuestas": ["Actualmente se realizan cuatro examenes, (requisitos de graduación) con el objetivo de medir las capacidades de los estudiantes activos en tercer año, las cuales son: MOS Excel certification, MTA Certification, TOEIC speaking and writing test, TOEIC listening and reading test"] 
+    },
+
+    {"tag": "despedida",
+    "preguntas": ["muchas gracias","bye","ok, gracias","gracias","gracias, adios"],
+    "respuestas": ["Fue un gusto ayudarle", "De nada, un gusto", "Un placer ayudar", "Cuando gustes, estoy para ayudar"]
+    }
+       
+ ]}
